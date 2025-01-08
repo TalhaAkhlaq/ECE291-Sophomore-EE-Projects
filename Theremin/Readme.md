@@ -2,7 +2,7 @@
 
 <strong></strong><br>
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(1).png" />
+  <img src="https://github.com/TalhaAkhlaq/ECE291-Sophomore-EE-Projects/blob/main/Theremin/Block%20Diagram.png" />
 </p>
 
 
@@ -10,7 +10,7 @@
 
 <strong></strong><br>
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(1).png" />
+  <img src="https://github.com/TalhaAkhlaq/ECE291-Sophomore-EE-Projects/blob/main/Theremin/Schematic.png" />
 </p>
 
 
@@ -19,7 +19,7 @@
 
 <strong></strong><br>
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(1).png" />
+  <img src="https://github.com/TalhaAkhlaq/ECE291-Sophomore-EE-Projects/blob/main/Theremin/Stage%20Overview.png" />
 </p>
 
 
@@ -28,7 +28,7 @@
 
 <strong></strong><br>
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(1).png" />
+  <img src="https://github.com/TalhaAkhlaq/ECE291-Sophomore-EE-Projects/blob/main/Theremin/Circuit%20Image.png" />
 </p>
 
 
