@@ -6,10 +6,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(2).png"/>
-</p>
-
 ## Schematic 
 
 <strong></strong><br>
@@ -18,9 +14,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(2).png"/>
-</p>
 
 ## Schematic with Stages Overview
 
@@ -29,10 +22,6 @@
   <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(1).png" />
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(2).png"/>
-</p>
 
 
 ## Circuit Image
@@ -43,7 +32,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(2).png"/>
-</p>
 
