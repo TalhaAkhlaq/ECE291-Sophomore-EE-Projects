@@ -23,7 +23,7 @@ Key Components:
 - **Envelope Detectors and Amplifiers**: Extract and amplify the amplitude envelope of the signal.
 - **Voltage Dividers and DC Blocking Capacitors**: Stabilize the signal and remove noise.
 
-[For more details regarding]([https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/tree/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder](https://github.com/TalhaAkhlaq/ECE291-Sophomore-EE-Projects/tree/main/Theremin))):
+[For more details regarding]([https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/tree/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder](https://github.com/TalhaAkhlaq/ECE291-Sophomore-EE-Projects/tree/main/Theremin)))]:
 1. **Schematics and Diagrams**: Detailed circuit designs and layout files.
 2. **Component Analysis**: Documentation of individual components and their functionality.
 3. **Signal Measurements**: Oscilloscope captures and test results.
