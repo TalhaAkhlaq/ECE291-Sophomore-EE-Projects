@@ -23,7 +23,7 @@ Key Components:
 - **Envelope Detectors and Amplifiers**: Extract and amplify the amplitude envelope of the signal.
 - **Voltage Dividers and DC Blocking Capacitors**: Stabilize the signal and remove noise.
 
-For more details, including schematics and diagrams, visit the [Theremin Folder](https://github.com/TalhaAkhlaq/ECE291-Sophomore-EE-Projects/tree/main/Theremin).
+For more details, including schematics and diagrams, visit the [Theremin](https://github.com/TalhaAkhlaq/ECE291-Sophomore-EE-Projects/tree/main/Theremin) Folder.
 
 ## Copyright & Licensing
 
